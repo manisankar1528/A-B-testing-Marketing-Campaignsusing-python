@@ -1,4 +1,4 @@
-# <u>a-b-testing-using-python
+# <u> A/B testing for Marketing Campaigns using python
 
 In A/B testing, we analyze the results of two marketing strategies to choose the best one for future marketing campaigns.
 
